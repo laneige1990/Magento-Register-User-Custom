@@ -1,6 +1,6 @@
 # Magento-Register-User-Custom
 
-Custom code used to create my own magento custom registration form.
+Custom code used to create my own Magento custom registration form.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Download the package and install files into relevant parts of Magento
 
 * [Magento](https://magento.com/)
 
-## Changeog
+## Changelog
 
 1.0.0 - Create inital deployment. 
 
