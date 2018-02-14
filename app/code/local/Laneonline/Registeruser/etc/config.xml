@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+    <modules>
+        <Laneonline_Registeruser>
+            <version>0.0.1</version>
+        </Laneonline_Registeruser>
+
+    </modules>
+    <frontend>
+        <routers>
+            <registeruser>
+                <use>standard</use>
+                <args>
+                    <module>Laneonline_Registeruser</module>
+                    <frontName>registeruser</frontName>
+                </args>
+            </registeruser>
+        </routers>  
+    </frontend>
+    
+
+</config>
